@@ -1,0 +1,11 @@
+.jumbotron {
+    
+   background-image: url("../../../assets/Images/Sky.png");    
+   border-color: white;
+   color: white;
+    
+}
+
+.col-md-6 {
+    color: white;
+}
