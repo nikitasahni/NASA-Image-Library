@@ -20,7 +20,8 @@
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
     "firebase": "^4.7.0",
-    "mongoose": "^4.13.5"
+    "mongoose": "^4.13.5",
+    "ng-admin": "^1.0.9"
   },
   "devDependencies": {
     "@angular/cli": "^1.5.5"
